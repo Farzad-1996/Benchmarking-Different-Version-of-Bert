@@ -1,4 +1,4 @@
-# Benchmarking different version of Bert
+# Benchmarking Different Version of Bert
 This project is all about analyzing the result obtained from different version of bert for classification task. It is implemented in a very easy way with instruction in the notebook. One can easily use this notebook as reference to adapt his nlp classification task.
 
 I used dataset which has two class.<br>
